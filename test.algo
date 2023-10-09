@@ -1,0 +1,6 @@
+ALGORITHM algorithm_name
+VAR
+   Jour : string; :=" "
+    
+BEGIN
+ Read (Jour);
